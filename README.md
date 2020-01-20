@@ -13,5 +13,5 @@ Ultimately, the goal for this application would be to leverage the different tra
 | ![ApplicationFrameHost_HSe6nvkAVE](https://user-images.githubusercontent.com/29003194/72750742-a7cdd980-3b8b-11ea-8ba4-feeea1939db9.png) | ![ApplicationFrameHost_b4TkEA3L0l](https://user-images.githubusercontent.com/29003194/72750756-aef4e780-3b8b-11ea-808e-faa5d043bd66.png) | ![ApplicationFrameHost_V1SPM8nxSr](https://user-images.githubusercontent.com/29003194/72751136-c08abf00-3b8c-11ea-9493-b8e3af42b58b.png) |
 
 ## Potential Stack
-React Native + React (if needed for a web dashboard) <- Plays nicely with the TrackPal stack
-Firebase or Express Backend
+* React Native + React (if needed for a web dashboard) <- Plays nicely with the TrackPal stack
+* Firebase or Express Backend
